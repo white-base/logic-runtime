@@ -1,0 +1,6 @@
+{
+  "name": "db-root",
+  "family": "db-root",
+  "version": "1.0.0",
+  "kind": "db_bundle"
+}

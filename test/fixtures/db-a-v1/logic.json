@@ -1,0 +1,6 @@
+{
+  "name": "db-a-v1",
+  "family": "db-a",
+  "version": "1.0.0",
+  "kind": "db_module"
+}

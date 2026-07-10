@@ -1,0 +1,11 @@
+{
+  "name": "db-user",
+  "family": "db-user",
+  "version": "1.0.0",
+  "kind": "db_module",
+  "schemaContrib": {
+    "depTables": [
+      { "name": "user_roles", "columns": ["userId", "roleId"] }
+    ]
+  }
+}

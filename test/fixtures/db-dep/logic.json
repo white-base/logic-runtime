@@ -1,0 +1,6 @@
+{
+  "name": "db-dep",
+  "family": "db-dep",
+  "version": "1.0.0",
+  "kind": "db_module"
+}

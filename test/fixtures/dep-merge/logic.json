@@ -1,0 +1,12 @@
+{
+  "name": "dep-merge",
+  "family": "dep-merge",
+  "version": "1.0.0",
+  "kind": "db_module",
+  "schemaContrib": {
+    "depTables": [
+      { "name": "shared", "columns": ["a"] },
+      { "name": "json-only", "columns": ["b"] }
+    ]
+  }
+}

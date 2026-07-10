@@ -1,0 +1,23 @@
+{
+  "name": "logic-runtime",
+  "version": "0.0.2",
+  "description": "ui/db module, bundle runtime tools",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/white-base/logic-runtime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/white-base/logic-runtime/issues"
+  },
+  "homepage": "https://github.com/white-base/logic-runtime#readme"
+}
